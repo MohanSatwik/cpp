@@ -1,2 +1,4 @@
-module();
+module(
+input i
+);
 endmodule
