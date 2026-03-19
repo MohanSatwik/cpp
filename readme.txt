@@ -18,3 +18,4 @@ create branch (cpp_v2)
 add folder adas
 commit
 push
+checkout main -> change readme -> stat -> push 
