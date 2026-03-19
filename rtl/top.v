@@ -1,5 +1,6 @@
 module(
 input i,
-output si
+output si,
+input tck
 );
 endmodule
