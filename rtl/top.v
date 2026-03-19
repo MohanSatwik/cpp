@@ -1,4 +1,5 @@
 module(
-input i
+input i,
+output si
 );
 endmodule
